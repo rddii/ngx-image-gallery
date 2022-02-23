@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": false
+  },
   "version": 1, 
   "newProjectRoot": "projects",
   "projects": {
@@ -10,7 +13,7 @@
       "prefix": "lib",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-ng-packagr:build",
+          "builder": "@angular-devkit/build-angular:ng-packagr",
           "options": {
             "tsConfig": "projects/ngx-image-gallery/tsconfig.lib.json",
             "project": "projects/ngx-image-gallery/ng-package.json"
@@ -27,18 +30,6 @@
             "main": "projects/ngx-image-gallery/src/test.ts",
             "tsConfig": "projects/ngx-image-gallery/tsconfig.spec.json",
             "karmaConfig": "projects/ngx-image-gallery/karma.conf.js"
-          }
-        },
-        "lint": {
-          "builder": "@angular-devkit/build-angular:tslint",
-          "options": {
-            "tsConfig": [
-              "projects/ngx-image-gallery/tsconfig.lib.json",
-              "projects/ngx-image-gallery/tsconfig.spec.json"
-            ],
-            "exclude": [
-              "**/node_modules/**"
-            ]
           }
         }
       }
