@@ -1,5 +1,5 @@
 {
-  "name": "@web-aid-kit/ngx-image-gallery",
+  "name": "@ardiqer/ngx-image-gallery",
   "version": "v1.0.0-beta",
   "dependencies": {
     "tslib": "^2.0.0"

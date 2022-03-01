@@ -439,4 +439,4 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "13.2.3", ngImpor
  */
 
 export { ClickOutsideDirective, MouseWheelDirective, NgxImageGalleryComponent, NgxImageGalleryModule };
-//# sourceMappingURL=web-aid-kit-ngx-image-gallery.mjs.map
+//# sourceMappingURL=ardiqer-ngx-image-gallery.mjs.map
