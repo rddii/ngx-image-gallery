@@ -58,3 +58,4 @@ export declare class NgxImageGalleryComponent implements OnInit, OnChanges {
     static ɵfac: i0.ɵɵFactoryDeclaration<NgxImageGalleryComponent, never>;
     static ɵcmp: i0.ɵɵComponentDeclaration<NgxImageGalleryComponent, "ngx-image-gallery", never, { "conf": "conf"; "images": "images"; }, { "onOpen": "onOpen"; "onClose": "onClose"; "onDelete": "onDelete"; "onImageChange": "onImageChange"; "onImageClicked": "onImageClicked"; "onError": "onError"; }, never, never>;
 }
+//# sourceMappingURL=ngx-image-gallery.component.d.ts.map

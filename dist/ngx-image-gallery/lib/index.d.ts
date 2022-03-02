@@ -12,3 +12,4 @@ export declare class NgxImageGalleryModule {
     static ɵmod: i0.ɵɵNgModuleDeclaration<NgxImageGalleryModule, [typeof i1.NgxImageGalleryComponent, typeof i2.MouseWheelDirective, typeof i3.ClickOutsideDirective], [typeof i4.CommonModule], [typeof i1.NgxImageGalleryComponent, typeof i2.MouseWheelDirective, typeof i3.ClickOutsideDirective]>;
     static ɵinj: i0.ɵɵInjectorDeclaration<NgxImageGalleryModule>;
 }
+//# sourceMappingURL=index.d.ts.map

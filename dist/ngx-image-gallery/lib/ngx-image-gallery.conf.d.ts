@@ -25,3 +25,4 @@ export interface GALLERY_IMAGE {
     extUrl?: string;
     extUrlTarget?: string;
 }
+//# sourceMappingURL=ngx-image-gallery.conf.d.ts.map

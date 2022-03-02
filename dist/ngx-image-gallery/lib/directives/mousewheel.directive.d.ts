@@ -10,3 +10,4 @@ export declare class MouseWheelDirective {
     static ɵfac: i0.ɵɵFactoryDeclaration<MouseWheelDirective, never>;
     static ɵdir: i0.ɵɵDirectiveDeclaration<MouseWheelDirective, "[mouseWheel]", never, {}, { "mouseWheelUp": "mouseWheelUp"; "mouseWheelDown": "mouseWheelDown"; }, never>;
 }
+//# sourceMappingURL=mousewheel.directive.d.ts.map

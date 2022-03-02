@@ -1,6 +1,6 @@
 {
   "name": "@ardiqer/ngx-image-gallery",
-  "version": "v1.0.2-beta",
+  "version": "v1.0.4-beta",
   "dependencies": {
     "tslib": "^2.0.0"
   },
