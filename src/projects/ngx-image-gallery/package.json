@@ -1,12 +1,12 @@
 {
   "name": "@ardiqer/ngx-image-gallery",
-  "version": "v1.0.0-beta",
+  "version": "v1.0.2-beta",
   "dependencies": {
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
-    "@angular/common": "^9.0.7",
-    "@angular/core": "^9.0.7",
+    "@angular/common": "~13.2.4",
+    "@angular/core": "~13.2.4",
     "hammerjs": "^2.0.8",
     "lodash": "^4.17.15"
   }
